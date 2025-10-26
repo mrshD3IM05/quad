@@ -1,4 +1,4 @@
-package qds
+package quad
 
 func QuadE(x, y int) string {
 	result := ""
