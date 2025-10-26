@@ -1,4 +1,4 @@
-package qds
+package quad
 
 func QuadC(x, y int) string { //ahaddou
 	result := ""
